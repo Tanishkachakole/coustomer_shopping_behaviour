@@ -1,5 +1,5 @@
 # coustomer_shopping_behaviour
-# Goal 
+Goal :-
  My project's goal is was to look at coustomer data to figure out who spends most money and give the store a clear plan to increase sale 
 
 # Big surprise for me in this data
@@ -8,25 +8,25 @@ then
 I stop looking for loyality since there was none and then gave Focus on wich factor give major effect on increment sales
 
 # important things that I noticed 
-## 1. females do more shopping and check also which category both gender spend most of their money by visualization 
+1. females do more shopping and check also which category both gender spend most of their money by visualization 
 so answer is both gender spend their most of the money on cloths and men more like to shoes technology,books ,toy or female like to spend money on cosmetic ,souvenir
-##
-## 2.the coustomer age also depend on ,how much they spend money 
-##
-## 3. in category technology item cost is most 
-##
-## 4. i also subploted the all years sale trend 
-##
-## 5. many coustomer visit two mall largly than the other 
+
+ 2.the coustomer age also depend on ,how much they spend money 
+
+3. in category technology item cost is most 
+
+ 4. i also subploted the all years sale trend 
+
+5. many coustomer visit two mall largly than the other 
 1. mall of istanbul
 2. kanyin 
 i check that is it result for all year, answer was yes and also in every mall people choise was same for category 
 
-## 6. most people prefer spend money in cash 
+6. most people prefer spend money in cash 
 then majorly credit card 
 and that's good point, people prefer credit card rather than debit card 
 bcz then they spend more money 
-##
+
 # feature engineering 
 ## in this data I add more column year and month so I can analyse sales trend of all moths of each year
 ##
