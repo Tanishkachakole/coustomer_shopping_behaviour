@@ -18,8 +18,8 @@ so answer is both gender spend their most of the money on cloths and men more li
  4. i also subploted the all years sale trend 
 
 5. many coustomer visit two mall largly than the other 
-1. mall of istanbul
-2. kanyin 
+ ### mall of istanbul
+ ### kanyin 
 i check that is it result for all year, answer was yes and also in every mall people choise was same for category 
 
 6. most people prefer spend money in cash 
