@@ -1,9 +1,9 @@
 # coustomer_shopping_behaviour
 # Goal 
-# My project's goal is was to look at coustomer data to figure out who spends most money and give the store a clear plan to increase sale 
-#
+ My project's goal is was to look at coustomer data to figure out who spends most money and give the store a clear plan to increase sale 
+
 # Big surprise for me in this data
-## I discovered that almost every coustmer only bought something once , no repeat coustomer in this data . this was major surprise 
+ I discovered that almost every coustmer only bought something once , no repeat coustomer in this data . this was major surprise 
 then 
 I stop looking for loyality since there was none and then gave Focus on wich factor give major effect on increment sales
 
